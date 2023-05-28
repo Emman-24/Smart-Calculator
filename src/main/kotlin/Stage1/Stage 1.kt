@@ -1,3 +1,5 @@
+package Stage1
+
 fun main() {
     val numbers = readln().split(" ").map { it.toInt() }
     val firstNumber = numbers[0]
